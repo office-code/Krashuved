@@ -1,0 +1,112 @@
+div#faqHeading-1 {
+    width: 100%;
+    background: transparent;
+    border: none;
+    padding: 0px;
+    padding-top: 10px;
+}
+.accordion {
+    padding: 25px 70px 25px 70px;
+}
+.card {
+   border:  none;
+    margin: 10px;
+}
+.accordion-button:focus {
+    border-color: none;
+    outline: none;
+    box-shadow: none;
+}
+ .accordion-button {
+    border: none !important;
+    border-radius: 5px;
+}
+.accordion-button {
+    padding: 5px;
+    margin-bottom: 0px;
+}
+div#faqHeading-1 h5 {
+    margin-bottom: 0px;
+    font-size: 15px;
+    font-weight: 500;
+}
+.accordion-header {
+    margin-bottom: 0px;
+}
+span.badge {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    line-height: 11px;
+    float: left;
+    border-radius: 100px;
+    text-align: center;
+    background: #ff7800;
+    color: #fff;
+    font-size: 12px;
+    margin-right: 15px;
+   
+}
+.accordion-button:not(.collapsed) {
+    color: #000;
+    background-color: transparent;
+    box-shadow: none;
+}
+section.faq-section {
+    padding: 30px 0px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("../../Theme/faq.png");
+}
+.faq-set{
+    width: 100%;
+    padding:50px 0px;
+    background-position: center right;
+    background-repeat: no-repeat;
+    background-size: 54% auto;
+    background-image: url("../../Theme/Globl.png"); 
+}
+.accordion-body {
+    padding: 0px;
+}
+h2.faq {
+    text-align: left;
+    font-size: 29px;
+    line-height: 49px;
+    font-weight: 500;
+    color: #28214c;
+}
+h6.faq {
+    text-align: left;
+    font-size: 13px;
+    font-weight: 600;
+    color: #ff7800;
+    margin-bottom: 0px;
+}
+@media(max-width:767px){
+    .accordion {
+        padding: 4px;
+    }
+    .accordion-item {
+        margin-bottom: 10px;
+    }
+}
+@media(max-width:575px){
+    section.faq-section {
+        padding: 20px 0px;
+    }
+    .faq-set {
+        padding: 24px 0px;
+    }
+    h2.faq {
+        font-size: 22px;
+    }
+    h2.faq {
+        margin-bottom: 0px;
+    }
+    div#faqHeading-1 h5 {
+        font-size: 14px;
+        font-weight: 400;
+    }
+}

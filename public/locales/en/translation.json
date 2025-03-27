@@ -1,0 +1,26 @@
+{
+    "login_side_title":"Where traditional banking holds you back, BC-FINTECH moves you forward.",
+    "login_side_title2":"Change the way you bank with a Current Account built for disruptors.",
+    "login_side_title3":"Fill out the details to Login :",
+    "login_side_Email":"E-mail",
+    "login_side_Password":"Password",
+    "login_side_Bottom_title":"Don't have an account?",
+    "email":"EMAIL",
+    "phone":"PHONE",
+    "sidebar_dashboard":"Dashboard",
+    "sidebar_transaction":"Transactions",
+    "sidebar_settlement":"Settlements",
+    "sidebar_paymentlink":"Payment Link",
+    "sidebar_report":"Reports",
+    "sidebar_account":"Account",
+    "sidebar_setting":"Settings",
+    "sidebar_country":"Countries",
+    "sidebar_merchant":"Merchants",
+    "sidebar_bussiness":"Bussiness",
+  
+    "contact":{
+        "contact_title":"Get in touch with Us"
+      
+    }
+  
+}

@@ -1,0 +1,429 @@
+
+.business-card {
+    background: #0b1437;
+    padding-top: 32px;
+}
+section.bg-white.busines {
+    padding: 30px 0px 50px 0px;
+}
+.banner-heading {
+    float: left;
+    width: 100%;
+    font-weight: 700;
+    font-size: 57px;
+    color: #fff;
+    margin: 30px 0 10px 0px;
+    line-height: 75px;
+}
+.banner-content {
+    float: left;
+    font-weight: 500;
+    font-size: 20px;
+    color: #fff;
+    margin: 0 0 45px 0;
+    line-height: 35px;
+}
+.merchant-header .merchant_btn {
+    display: inline-block;
+    background: #00b03f;
+    padding: 20px 30px;
+    color: #fff;
+    border-radius: 3px;
+    font-weight: 700;
+    font-size: 24px;
+    box-shadow: 4px 5px 4px #342062;
+    -webkit-box-shadow: 4px 5px 4px #342062;
+    -moz-box-shadow: 4px 5px 4px #342062;
+}
+img.mobile-image-header {
+    width: 100%;
+}
+a.merchant_btn {
+    background: #ff7800;
+    padding: 19px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 600;
+    margin: 0px 0px 10px 0px;
+}
+.business_head {
+    width: 100%;
+    float: left;
+    font-size: 49px;
+    font-weight: 700;
+    color: #323232;
+    margin: 0 0 10px;
+}
+.chap_color {
+        color: #ff7800;
+}
+.domore-content.merchant-content {
+    font-weight: 400;
+    font-size: 20px;
+    color: #646464;
+    margin: 1px 0 45px 0;
+    display: inline-block;
+    line-height: 35px;
+    max-width: 774px;
+}
+img.Bct-businnes {
+    max-width: 800px;
+    height: auto;
+    object-fit: cover;
+}
+section.white-bg {
+    padding: 0px 0px 70px 0px;
+}
+.mer_a {
+    padding-top: 42px;
+}
+a.mer_app {
+    background: #0b1437;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 19px;
+    border: navajowhite;
+    color: #fff;
+    text-decoration: none;
+    margin: 0px 0px 0px 10px;
+}
+img.play {
+    color: #fff;
+    width: 20px;
+    margin: 0px 6px 0px 0px;
+}
+section.feature-main {
+    padding: 50px 0px;
+}
+.march-dah {
+    padding: 50px 0px;
+}
+.marchant-dash h2 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #ff7800;
+}
+.marchant-dash h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+.marchant-dash ul li {
+    padding: 10px 0px;
+    list-style: lower-roman;
+}
+.marchant-dash ul {
+    padding-left: 17px;
+}
+section.get-start {
+    padding: 50px 0px;
+    text-align: center;
+}
+.get-start-1 h2 {
+    font-size: 36px;
+    font-weight: 600;
+}
+.get-start-1 p {
+    padding-bottom: 20px;
+    padding-top: 8px;
+}
+img.marchnt-dashboard {
+    width: 100%;
+}
+.service_box {
+    margin: 5px 0px;
+    padding: 12px 20px;
+    text-align: center;
+    border-radius: 5px;
+    transition: all 0.30s ease 0s;
+    background-color: #fff;
+    color: #000;
+    width: 100%;
+}
+.service_box:hover {
+    background: #ff7800;
+}
+.service_box .service_icon {
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+    background: #f8f9fa;
+    line-height: 60px;
+    box-shadow: rgb(0 0 0 / 18%) 0px 5px 15px;
+    border-radius: 50px;
+    transform: translateY(0);
+    transition: all 0.30s ease 0s;
+}
+.service_box .service_icon i img {
+    width: 33px;
+}
+.service_box h3 {
+    font-size: 17px;
+    font-weight: 600;
+    padding-top: 10px;
+}
+.getStarted {
+    width: 100%;
+    float: left;
+    background:#0b1437;
+    padding-top: 50px;
+}
+.getStarted-right {
+    padding: 30px;
+}
+.getStarted-right h2 {
+    font-weight: 700;
+    font-size: 36px;
+    color: #fff;
+    margin: 0 0 40px;
+    text-align: center;
+}
+.getStarted-steps h3 {
+    font-weight: 700;
+    font-size: 22px;
+    color: #fff;
+    margin: 0 0 15px;
+    float: left;
+    width: 100%;
+}
+.getStarted-steps p {
+    font-weight: 500;
+    font-size: 14px;
+    color: #fff;
+    margin: 0 0 15px;
+    line-height: 22px;
+    float: left;
+    width: 100%;
+}
+.getStarted-right h5 {
+    font-weight: 700;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    margin: 15px 0;
+    float: left;
+    width: 100%;
+}
+.getStarted-app a {
+    display: inline-block;
+    margin: 10px 0 0 25px;
+}
+.get-start-1 {
+    padding-top: 22px;
+}
+.bunis {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+section.store {
+    background: #fff;
+    padding: 25px 0px;
+}
+.ecosystem li {
+    list-style: none;
+    padding-top: 10px;
+}
+.ecosystem ul {
+  padding-left: 0px;
+}
+.business_head {
+    width: 100%;
+    padding-top: 40px;
+    float: left;
+    font-size: 40px;
+    font-weight: 700;
+    color: #323232;
+  
+}
+
+.domore-content {
+    max-width: 81%;
+    font-weight: 400;
+    font-size: 18px;
+    color: #646464;
+    margin: 3px 0 45px 0;
+    display: inline-block;
+    line-height: 32px;
+}
+.ecosystem h5 {
+    font-weight: 700;
+    font-size: 18px;
+    color: #fff;
+    margin: 0 0 10px;
+    color: #12072e;
+}
+.ecosystem li img {
+    padding-right: 15px;
+}
+.e-wallet-benifit h3 {
+    font-size: 18px;
+    font-weight: 600;
+}
+.e-wallet-benifit p {
+    font-size: 14px;
+ 
+}
+.service_box p {
+    font-size: 14px;
+}
+@media(max-width:1199px){
+    .banner-heading {
+        font-size: 48px;
+        margin: 0px 0 10px 0px;
+        line-height: 62px;
+    }
+}
+@media(max-width:991px){
+
+img.Bct-businnes {
+    max-width: 100%;
+}
+}
+@media(max-width:767px){
+    .getStarted {
+        padding-top: 0px;
+    }
+}
+@media (max-width: 575px){
+    img.mobile-image-header {
+        width: 100%;
+        margin-top: 18px;
+    }
+    .get-start-1 {
+        padding-top: 0px;
+    }
+    .banner-content {  
+        line-height: 30px;
+    }
+    .getStarted-steps h3 {
+        font-size: 20px;
+        margin: 0 0 10px;
+    
+    }
+.getStarted-right h2 {
+    font-size: 28px;
+    margin: 0 0 20px;
+
+}
+   
+.banner-heading {
+    font-size: 27px;
+    line-height: 39px;
+}
+.domore-content.merchant-content {
+    font-size: 18px;
+    margin: 1px 0 19px 0;
+    line-height: 32px;
+    max-width: 100%;
+}
+h1.business_head.business_head3 {
+    padding-top: 27px;
+}
+
+.business_head {
+    font-size: 28px;
+    padding-top: 0px;
+}
+.domore-content {
+    max-width: 100%;
+    font-size: 16px;
+    margin: 3px 0 20px 0;
+}
+.marchant-dash h1 {
+    font-size: 30px;
+}
+.get-start-1 h2 {
+    font-size: 27px;
+}
+.mer_a {
+    display: grid;
+    padding-top: 42px;
+}
+a.mer_app {
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+}
+a.merchant_btn {
+    width: 100%;
+}
+}
+@media(max-width:375px){
+    .service_box {
+        padding: 4px 4px; 
+    }
+    .service_box h3 {
+        font-size: 18px;
+    }
+    section.bg-white.busines {
+        padding: 30px 0px 30px 0px;
+    }
+    .mer_a {
+        padding-top: 20px;
+    }
+.banner-heading {
+    font-size: 24px;
+    line-height: 38px;
+}
+.banner-content {
+    font-size: 15px;
+    margin: 0 0px 28px 0;
+    line-height: 26px;
+}
+a.merchant_btn {
+    padding: 14px;
+    font-size: 13px;
+}
+.business_head {
+    font-size: 24px;
+}
+.domore-content.merchant-content {
+    font-size: 16px;
+    margin: 1px 0 18px 0;
+    line-height: 28px;
+    max-width: 100%;
+}
+section.feature-main {
+    padding: 24px 0px;
+}
+.marchant-dash h1 {
+    font-size: 22px;
+    line-height: 31px;
+}
+.march-dah {
+    padding: 30px 0px;
+}
+.get-start-1 h2 {
+    font-size: 24px;
+}
+section.get-start {
+    padding: 30px 0px;
+}
+}
+
+@media(max-width:320px){
+.banner-heading {
+    font-size: 22px;
+    line-height: 38px;
+}
+.business_head {
+    font-size: 22px;
+}
+.domore-content.merchant-content {
+    font-size: 15px;
+}
+.getStarted-right h2 {
+    font-size: 22px;
+}
+.getStarted-steps h3 {
+    font-size: 18px;
+}
+.domore-content {
+    font-size: 15px;
+    line-height: 27px;
+}
+.get-start-1 h2 {
+    font-size: 22px;
+    line-height: 31px;
+}
+}

@@ -1,0 +1,322 @@
+{
+  "navbar": {
+    "htitle": "Home",
+    "dtitle": "Demand",
+    "stitle": "Supply",
+    "ctitle": "Contact",
+    "mtitle": "Media",
+    "ltitle": "Login",
+    "rtitle": "Register",
+    "MyProfile": "My Profile",
+    "Logout": "Logout",
+    "Hindi": "Hindi",
+    "English": "English"
+  },
+  "home": {
+    "slider": {
+      "title": "Shape Agriculture & Pure Eco Farming",
+      "title1": "We Supply High Quality Food That Supports Farmers"
+    },
+
+    "sliderpra": {
+      "titlepra": " See how your users experience your website in real time orview trends to see any changes in performance over time.",
+      "titlepra1": " All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this."
+    },
+
+    "homedemand": {
+      "titlehending": "Recent demand added by vendors"
+    },
+    "supplies": {
+      "titlehendingsupplies": "Recent Supply added by providers"
+    },
+
+    "homebannerviedo": {
+      "titlehendingbanner": " Be Healthy & Eat Only Fresh Organic Vagetables",
+      "titleprabanner": "If you are driven to make a profound impact on the agricultural landscape and brainstorm alongside the sharpest minds, Bijak is your destination."
+    },
+
+    "viewall": {
+      "titleviewall": "View All"
+    },
+
+    "homebanne": {
+      "titlehendingbanner": "Unbeatable Organic and Agriculture Services",
+      "titleprabanner": "Call Us Now When You Have Any Krashuved Question."
+    },
+
+    "homelatestblog": {
+      "titlehendinglatestblog": "Latest Blog",
+      "titlepra": "The Future of Farming"
+    },
+
+    "homenewsletter": {
+      "titlehendingemail": "We're a Popular Leader in Agriculture & Organic Market",
+      "titlenewsletter": "Newsletter",
+      "submitbutton": "Submit"
+    },
+    "hometestimonials": {
+      "title": "Testimonials",
+      "subtitle": "What our client say",
+
+      "Balaram": "Balaram",
+      "ColdStoreManager": "Cold Store Manager",
+      "description1": "I liked the service of krashuved very much. They are transparent in everything, and also make payments on time. He talks to everyone clearly and respectfully.",
+
+      "Ramkrashna": "Ramkrashna",
+      "Farmer": "Farmer",
+      "description2": "Krashuved bought potatoes from me and gave good rates compared to other traders and markets. I didn't need to go anywhere. They came to the cold store, checked the quality, and offered me a rate. They were on time to load potatoes and make payment.",
+
+      "Sunil": "Sunil",
+      "description3": "I was not able to sell my LR potatoes to anyone. Rest of the people were giving very low rates. Then I contacted Krashuved. He not only bought potatoes but also gave fair rates."
+    }
+  },
+
+  "demands": {
+    "headingdemands": "Demand",
+    "detailsheadingdemand1": "Demand Added by Vendors",
+    "detailsheadingdemand2": "My Demand",
+    "detailsheadingdemand3": "Demand Related"
+  },
+
+  "supplies": {
+    "headingsupplies": "Supply",
+    "detailsheadingsupply1": "Supply Added by Vendors",
+    "detailsheadingsupply2": "My Supply",
+    "detailsheadingsupply3": "Supply Related"
+  },
+
+  "suppliesanddemandsfiled": {
+    "Categories": "Categories",
+    "CropVariety": "Crop Variety",
+    "Type": "Type",
+    "District": "District",
+    "City": "City",
+    "Sortby": "Sort by",
+    "ChipsPass": "Chips Pass",
+    "CropSize": "Crop Size",
+    "Quantity": "Quantity",
+    "Price": "Price",
+    "detailspageheading": "Raise your request",
+    "detailspageheading1": "User bids",
+    "FullName": "Full Name",
+    "Email": "Email",
+    "MobileNumber": "Mobile Number",
+    "UserRate": "User Rate",
+    "UserQuantity": "User Quantity",
+    "Unit": "Unit",
+    "UserRemarks": "User Remarks",
+    "prag": "Please fill the above form as per your demand",
+    "Description": "Description",
+    "GradingType": "Grading Type",
+    "Variety": "Variety",
+    "Category": "Category",
+    "Size": "Size",
+    "Location": "Location",
+    "CorpName": "Crop Name",
+    "RateFrom": "Rate From",
+    "Rateto": "Rate to",
+    "CropSize1": "Average Crop Size in MM",
+    "OtherCropDetails": "Other Crop Details",
+    "Submit": "Submit",
+    "Uploadimages": "Upload images",
+    "UploadVideo": "Upload Video",
+    "DATE&TIME": "DATE & TIME"
+  },
+
+  "dropdownoption": {
+    "View": "View",
+    "Contact": "User bids",
+    "Edit": "Edit",
+    "Delete": "Delete",
+    "CompleteDemand": "Complete",
+    "CompleteSupply": "Complete",
+    "Pending": "Pending",
+    "Rejected": "Rejected"
+  },
+
+  "tableheadername": {
+    "IMAGE": "IMAGE",
+    "NAME": "NAME",
+    "QUANTITY": "QUANTITY",
+    "PRICE": "PRICE",
+    "STATUS": "STATUS",
+    "ACTION": "ACTION",
+    "PHONENUMBER": "PHONE NUMBER",
+    "USERRATE": "USER RATE",
+    "USERQUANTITY": "USER QUANTITY",
+    "USERREMARKS": "USER REMARKS",
+    "BOOKINGSTATUS": "BOOKING STATUS",
+    "CROPSTYPE": "CROPS TYPE"
+  },
+
+  "confirmstatus": {
+    "Soldat": "Sold at",
+    "Remarks": "Remarks"
+  },
+
+  "button": {
+    "buttonnow": "Contact Now",
+    "update": "Update",
+    "Submit": "Submit",
+    "Back": "Back"
+  },
+
+  "mediablbums": {
+    "MediaAlbumstitle": "Media Albums"
+  },
+
+  "register": {
+    "CreateAccount": "Create Account",
+    "registerpra": "Let's create your profile! Just fill in the fields below, and we’ll get a new account.",
+    "FirstName": "First Name",
+    "LastName": "Last Name",
+    "Email": "Email",
+    "Password": "Password",
+    "Pincode": "Pincode",
+    "MobileNumber": "Mobile Number",
+    "City": "City",
+    "District": "District",
+    "Village": "Village",
+    "UserType": "User Type",
+    "registerpra1": "Already have an account?",
+    "Code": "Code",
+    "ConfirmPassword": "Confirm Password",
+    "NewPassword": "New Password",
+    "ChangePassword": "Change Password",
+    "Register": "Register",
+    "Login": "Login",
+    "WelcomeBack": "Welcome Back!",
+    "loginpra": "Login Into Your Account",
+    "Notamember": "Not a member?",
+    "RememberMe": "Remember Me",
+    "ForgotPassword": "Forgot Password",
+    "ForgotPasswordPra": "You can reset your password here.",
+    "ResetPassword": "Reset Password",
+    "VerifyOTP": "Verify OTP",
+    "ResendOTP": "Resend OTP",
+    "PleaseVerifyYourOTP": "Please Verify Your OTP",
+    "OTP": "OTP"
+  },
+
+  "contact": {
+    "title": "Get In Touch With Us",
+    "paragraph": "We are here 24/7. Use any of the options below to get in touch with us.",
+    "address": "Address",
+    "phone": "Phone",
+    "cemail": "Email",
+    "placholder": "Enter your name",
+    "placholder1": "Enter your email",
+    "placholder2": "Enter your Mobile Number",
+    "placholder3": "Enter your Your Subject",
+    "placholder4": "Enter your message",
+    "submit": "Send Now"
+  },
+
+  "myprofile": {
+    "MyProfile": "My Profile",
+    "ChangePassword": "Change Password",
+    "MyDemand": "My Demand",
+    "MySupply": "My Supply",
+    "MyBid": "My Bid"
+  },
+
+  "myprofiledemand&supply": {
+    "Create": "Create"
+  },
+
+  "usercontactlist": {
+    "closedemandtitle": "Do you want to close this demand",
+    "closesupplytitle": "Do you want to close this supply"
+  },
+
+  "nodatashowerror": {
+    "title1": "You have no demand list available.",
+    "title2": "You have no supply list available.",
+
+    "title3": "You have no list available.",
+
+    "title4": "You have no my Demand contact user list available.",
+    "title5": "You have no my Supply contact user list available.",
+
+    "title6": "You have no demand list available.",
+    "title7": "You have no supply list available.",
+
+    "title8": "No user bids on this demand.",
+    "title9": "No user bids  on this supply."
+  },
+
+
+  
+
+  "demand_list_data_show_messages": {
+    "Demand": "You have no demand list available.",
+    "MyContact": "You have no list available.",
+    "DemandUserListContact": "You have no my Demand contact user list available.",
+    "DemandDetails": "No user bids on this demand."
+  },
+
+  "supply_list_data_show_messages": {
+    "Supply": "You have no supply list available.",
+    "SupplyUserListContact": "You have no my Supply contact user list available.",
+    "SupplyDetails": "No user bids  on this supply."
+  },
+
+
+
+
+
+  "notifictionbutton": {
+    "title1": "View All Notification"
+  },
+
+  "footer": {
+    "partnertitle": "Business Partner",
+    "partnerparagraph": "Help agencies to define their new business objectives and then create professional software.",
+    "footerBusiness": "Business",
+    "footerApi": "APIs Reference",
+    "footerSupport": "Support",
+    "footerFaq": "Faq",
+    "description": "Striving every day to provide better experience and renumeration to our Agri-partners",
+    "title1": "Useful Links",
+    "title2": "About",
+    "title3": "Support",
+    "footerContact": " Contact Information",
+    "footerContact1": " Contact Information",
+    "footerPrivacy": "Privacy  Policy",
+    "footerTerm": "Terms & Conditions",
+    "footerpalacholder": "Email Address",
+    "footerbtn": "SUBSCRIBE",
+    "footercopy": " Copyright ©2022",
+    "footerall": ". All rights reserved",
+    "footerssupplies": "Supply",
+    "footersdemands": "Demand",
+    "footersmedia": "Media",
+    "footerscatgory": "Categories",
+    "footeraboutas": "About us"
+  },
+
+  "footerbottom": {
+    "coptrighttitle": "© 2024 Krashuved. All rights reserved."
+  },
+
+  "term&condistion": {
+    "OwnershipandUseofBrand": "Ownership and Use of Brand",
+    "OwnershipandUseofBrandpera": "KrashuVed is a brand owned by KrashuVed Agrotech Private Limited. Any use of the brand by an individual or entity without the explicit consent of KrashuVed Agrotech Private Limited is strictly prohibited and may result in legal action.",
+    "PlatformServices": "Platform Services",
+    "PlatformServicespera": "KrashuVed provides a platform to facilitate the identification of buyers and sellers of agri-commodities, supplies, and machinery. KrashuVed does not support or guarantee the completion of transactions between buyers and sellers. The platform’s role is limited to connecting parties interested in buying and selling.",
+    "ResponsibilitiesofBuyersandSellers": "Responsibilities of Buyers and Sellers",
+    "ResponsibilitiesofBuyersandSellerspera": "It is the sole responsibility of buyers and sellers to conduct thorough due diligence before entering into any contract, whether verbal or written, and through any online or offline channels. KrashuVed is not liable for any transactions or deals that do not proceed as intended by the parties involved.",
+    "TransportationandLogistics": "Transportation and Logistics",
+    "TransportationandLogisticspera": "KrashuVed does not provide transportation services for transactions between buyers and sellers. All logistics arrangements must be made independently by the parties involved.",
+    "PaymentProcessing": "Payment Processing",
+    "PaymentProcessingpera": "KrashuVed does not support payment processing through its platform or through offline channels. The platform is not responsible for any monetary or non-monetary losses incurred by either party due to transactions based on mutual agreements.",
+    "CompliancewithIndianLaws": "Compliance with Indian Laws",
+    "CompliancewithIndianLawspera": "All users of the KrashuVed platform must comply with applicable Indian laws, including but not limited to the Information Technology Act, 2000, and the Indian Contract Act, 1872. Users are also required to adhere to any other relevant regulations and guidelines.",
+    "DisputeResolution": "Dispute Resolution",
+    "DisputeResolutionpera": "In the event of any disputes arising from transactions facilitated by KrashuVed, the parties agree to resolve such disputes through arbitration in accordance with the Arbitration and Conciliation Act, 1996. The place of arbitration shall be Indore (MP), India, and the language of arbitration shall be Hindi and English.",
+    "GoverningLaw": "Governing Law",
+    "GoverningLawpera": "These Terms and Conditions shall be governed by and construed in accordance with the laws of India. Any legal actions or proceedings arising out of or related to these Terms and Conditions shall be subject to the exclusive jurisdiction of the courts in Indore (MP), India.",
+    "PrivacyPolicy": "Privacy Policy",
+    "PrivacyPolicypera": "KrashuVed is committed to protecting the privacy of its users. KrashuVed will comply to Personal Data Protection Bill'2019 on how we collect, use, and protect your personal information."
+  }
+}

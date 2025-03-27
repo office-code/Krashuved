@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif !important;
+    overflow-x: hidden !important;
+    background: #e9ecefd6;
+    box-sizing: border-box
+
+  }
+  .pagination {
+    @apply flex justify-center list-none mb-0 py-2;
+  }
+
+  .pagination li {
+    @apply inline-block mx-1;
+  }
+
+  .pagination li a {
+    @apply rounded-md text-green-900 py-1 px-3 no-underline bg-transparent text-base;
+  }
+
+  .pagination li.active a {
+    @apply bg-green-900 text-white;
+  }
+
+  .pagination li.disabled a {
+    @apply text-yellow-500 pointer-events-none cursor-not-allowed;
+  }
+
+  .selected-page {
+    @apply bg-blue-600 text-white rounded-md py-2 px-3 mx-1;
+  }
+  .react-tel-input .form-control.invalid-number {
+    @apply bg-white pl-11 w-full px-2 border border-gray-300 rounded-md h-11 outline-none shadow-none;
+
+}
+.react-tel-input .flag-dropdown.invalid-number{
+  @apply bg-white border border-gray-300;
+}
+.Toastify {
+  font-size: 15px!important;
+}
+@media(max-width:384px){
+  div#rc-anchor-container {
+    width: 91% !important;
+}
+  .rc-anchor-logo-portrait {
+    margin: 10px 0px 0px 0px !important;
+   
+}
+.rc-anchor-normal .rc-anchor-checkbox-label {
+  width: 37px !important;
+}
+
+.rc-anchor-checkbox-label {
+  font-size: 11px !important;
+}
+.rc-anchor-normal .rc-anchor-pt {
+  margin: 2px 34px 0px 0px !important;
+}
+}
+/* .dropdown-toggle {
+  color: #000 !important;
+  background-color: transparent !important;
+  white-space: nowrap ;
+  border: none !important;
+}
+
+.dropdown-toggle::after {
+  display: none !important;
+  
+} */

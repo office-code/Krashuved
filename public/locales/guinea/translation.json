@@ -1,0 +1,272 @@
+{
+  "navbar": {
+    "htitle": "घर",
+    "dtitle": "मांग",
+    "stitle": "आपूर्ति",
+    "ctitle": "संपर्क",
+    "mtitle": "मिडिया",
+    "ltitle": "लॉग इन करें",
+    "rtitle": "पंजीकरण करवाना",
+    "MyProfile" : "मेरी प्रोफाइल",
+    "Logout": "लॉग आउट",
+    "Hindi" : "हिंदी",
+    "English": "अंग्रेज़ी"
+  },
+
+  "home": {
+    "slider": {
+      "title": "आकार कृषि एवं शुद्ध इको फार्मिंग",
+      "title1": "हम उच्च गुणवत्ता वाले भोजन की आपूर्ति करते हैं जो किसानों का समर्थन करता है"
+    },
+
+    "sliderpra": {
+      "titlepra": "देखें कि आपके उपयोगकर्ता वास्तविक समय में आपकी वेबसाइट को कैसा अनुभव करते हैं या समय के साथ प्रदर्शन में कोई भी बदलाव देखने के लिए रुझान देखें।",
+      "titlepra1": "इंटरनेट पर सभी लोरेम इप्सम जेनरेटर होते हैं इसे बनाते हुए आवश्यकतानुसार पूर्वनिर्धारित टुकड़ों को दोहराएँ।"
+    },
+
+    "homedemand": {
+      "titlehending": "विक्रेताओं द्वारा हाल ही में जोड़ी गई मांगें",
+      "titleprademand": "हम उच्च गुणवत्ता वाले भोजन की आपूर्ति करते हैं जो किसान को काम पर ले जाता है"
+    },
+
+    "homebannerviedo": {
+      "titlehendingbanner": "स्वस्थ रहें और केवल ताजी जैविक सब्जियां ही खाएं",
+      "titleprabanner": "यदि आप कृषि परिदृश्य पर गहरा प्रभाव डालने और सबसे तेज़ दिमागों के साथ विचार-मंथन करने के लिए प्रेरित हैं, तो बिजक आपकी मंजिल है।"
+    },
+
+    "supplies": {
+      "titlehendingsupplies": "प्रदाताओं द्वारा हाल ही में जोड़ी गई आपूर्तियाँ",
+      "titleprasupplies": "हम उच्च गुणवत्ता वाले भोजन की आपूर्ति करते हैं जो किसान को काम पर ले जाता है"
+    },
+    "viewall": {
+      "titleviewall": "सभी को देखें"
+    },
+
+    "homebanne": {
+      "titlehendingbanner": "अपराजेय जैविक और कृषि सेवाएँ",
+      "titleprabanner": "जब आपके पास कोई क्रशुवेड प्रश्न हो तो हमें अभी कॉल करें।"
+    },
+
+    "homelatestblog": {
+      "titlehendinglatestblog": "नवीनतम ब्लॉगरीज़",
+      "titlepra": "खेती का भविष्य"
+    },
+
+    "homenewsletter": {
+      "titlehendingemail": "हम कृषि और जैविक बाजार में एक लोकप्रिय नेता हैं",
+      "titlenewsletter": "समाचार पत्रिका",
+      "submitbutton" :"जमा करना"
+    },
+    "hometestimonials": {
+      "title": "प्रशंसापत्र",
+      "subtitle": "हमारे ग्राहक क्या कहते हैं",
+      "name": "ब्रैडली किम",
+      "profile":"ग्राहक",
+      "name1": "जॉन डो",
+      "profile1":"ग्राहक",
+      "name2": "जेन किम",
+      "profile2":"ग्राहक",
+      "description":"यह उनकी उत्कृष्ट सेवा, प्रतिस्पर्धी मूल्य निर्धारण और ग्राहक सहायता के कारण है। इस तरह का व्यक्तिगत स्पर्श पाना पूरी तरह से ताज़ा है। डुइस अउते लोरेम इप्सम बस नि:शुल्क पाठ है इरेज़ डोलोर इन रिप्रेहेंडरिट इन एस्से नल्ला पारियाटुर।"
+    }
+  },
+
+  "demands":{
+    "headingdemands" : "मांगों",
+    "detailsheadingdemand1": "विक्रेताओं द्वारा जोड़ी गई माँगें",
+    "detailsheadingdemand2": "मेरी मांगें",
+    "detailsheadingdemand3": "मांगें संबंधित"
+   },
+
+   "supplies":{
+    "headingsupplies" : "आपूर्ति",
+    "detailsheadingsupply1": "विक्रेताओं द्वारा आपूर्ति जोड़ी गई",
+    "detailsheadingsupply2": "मेरी आपूर्ति",
+    "detailsheadingsupply3": "आपूर्ति संबंधित"
+   },
+  
+   "suppliesanddemandsfiled":{
+    "Categories" : "श्रेणियाँ",
+    "CropVariety" : "फसल की विविधता",
+    "Type": "प्रकार",
+    "District": "ज़िला",
+    "City":"शहर",
+    "Sortby":"इसके अनुसार क्रमबद्ध करें",
+    "ChipsPass":"चिप्स पास",
+    "CropSize" : "फसल का आकार",
+    "Quantity" : "मात्रा",
+    "Price" : "कीमत",
+    "detailspageheading": "अपना अनुरोध उठाएँ", 
+    "detailspageheading1": "उपयोगकर्ता बोली",
+    "FullName": "पूरा नाम",
+    "Email": "ईमेल", 
+    "MobileNumber": "मोबाइल नंबर", 
+    "UserRate": "उपयोगकर्ता दर", 
+    "UserQuantity": "उपयोगकर्ता मात्रा", 
+    "Unit": "इकाई", 
+    "UserRemarks": "उपयोगकर्ता टिप्पणियाँ", 
+    "prag" :"कृपया अपनी मांग के अनुसार उपरोक्त फॉर्म भरें",
+    "Description": "विवरण",
+    "GradingType" : "ग्रेडिंग प्रकार",
+    "Variety" : "विविधता",
+    "Category": "वर्ग",
+    "Size" : "आकार",
+    "Location" : "जगह",
+    "CorpName": "फसल का नाम",
+    "RateFrom" : "से दर",
+    "Rateto" : "को रेट करें",
+    "CropSize1": "औसत फसल का आकार एमएम में",
+    "OtherCropDetails" :"अन्य फसल विवरण",
+    "Submit":"जमा करना",
+    "Uploadimages":"तश्वीरें अपलोड करो",
+    "UploadVideo":"विडियो को अपलोड करें",
+    "DATE&TIME" : "दिनांक समय"
+   },
+  
+   "dropdownoption": {
+    "View": "देखना",
+    "Contact": "उपयोगकर्ता बोली",
+    "Edit": "संपादन करना",
+    "Delete": "मिटाना",
+    "CompleteDemand" : "पूरी मांग",
+    "CompleteSupply":"पूर्ण आपूर्ति",
+    "Pending": "लंबित",
+    "Rejected":"अस्वीकार कर दिया"
+
+  },
+  
+  "tableheadername": {
+    "IMAGE": "छवि",
+    "NAME": "नाम",
+    "QUANTITY": "मात्रा",
+    "PRICE": "कीमत",
+    "STATUS": "स्थिति",
+    "ACTION": "कार्रवाई",
+    "PHONENUMBER": "फ़ोन नंबर",
+    "USERRATE": "उपयोगकर्ता दर",
+    "USERQUANTITY": "उपयोगकर्ता मात्रा",
+    "USERREMARKS": "उपयोगकर्ता टिप्पणियाँ",
+    "BOOKINGSTATUS": "बुकिंग स्थिति",
+    "CROPSTYPE": "  फसल का प्रकार"
+  },
+
+  "confirmstatus": {
+    "Soldat": "पर बेचा गया",
+    "Remarks" : "टिप्पणी"
+  },
+
+  "button":{
+    "buttonnow" : "अभी संपर्क करें",
+    "update": "अपडेट",
+    "Submit": "जमा करना",
+    "Back": "पीछे"
+   },
+
+   "mediablbums":{
+    "MediaAlbumstitle":"मीडिया एल्बम"
+  },
+  
+  
+  "register": {
+    "firsnametitle": "नाम",
+    "lastnametitle": "उपनाम",
+    "emailtitle": "ईमेल",
+    "passwordtitle": "पासवर्ड",
+    "pincodetitle": "पिन कोड",
+    "mobilenumbertitle": "मोबाइल नंबर",
+    "citytitle": "शहर",
+    "districttitle": "ज़िला",
+    "villagetitle": "गाँव",
+    "categorytitle": "उपयोगकर्ता का प्रकार",
+    "headingtitle": "खाता बनाएं",
+    "pratitle": "आइए आपकी प्रोफ़ाइल बनाएं! बस नीचे दिए गए फ़ील्ड भरें, और हमें एक नया खाता मिल जाएगा।",
+    "Code":"कोड",
+    "ConfirmPassword" :"पासवर्ड की पुष्टि कीजिये",
+    "NewPassword" : "नया पासवर्ड",
+    "ChangePassword" : "पासवर्ड बदलें",
+    "Register": "पंजीकरण करवाना",
+    "Login": "लॉग इन करें",
+    "pratitle1":"क्या आपके पास पहले से एक खाता मौजूद है?",
+    "loginheading":"वापसी पर स्वागत है!",
+    "loginpra":"अपने खाते में लॉगिन करें",
+    "Notamember":"सदस्य नहीं हैं?",
+    "RememberMe":"मुझे याद करो",
+    "ForgotPassword":"पासवर्ड भूल गए",
+    "ForgotPasswordPra":"आप यहां अपना पासवर्ड रीसेट कर सकते हैं।",
+    "ResetPassword": "पासवर्ड रीसेट",
+    "ResendOTP": "ओटीपी पुनः भेजें",
+    "PleaseVerifyYourOTP": "कृपया अपना ओटीपी सत्यापित करें"
+  },
+
+  "contact": {
+    "title": "हमारे साथ जुड़े",
+    "paragraph": "हम यहां 24/7 हैं। हमसे संपर्क करने के लिए नीचे दिए गए किसी भी विकल्प का उपयोग करें।",
+    "address": "पता",
+    "phone": "फ़ोन",
+    "cemail": "ईमेल",
+    "placholder": "अपना नाम दर्ज करें",
+    "placholder1": "अपना ईमेल दर्ज करें",
+    "placholder2": "अपना मोबाइल संख्या दर्ज करे",
+    "placholder3": "अपना विषय दर्ज करें",
+    "placholder4": " अपना संदेश दर्ज करें",
+    "submit": "अब भेजें"
+  },
+
+  "myprofile": {
+    "EditProfile": "प्रोफ़ाइल संपादित करें",
+    "ChangePassword": "पासवर्ड बदलें",
+    "MyDemand": "मेरी मांग",
+    "MySupply": "मेरी आपूर्ति",
+    "MyBid": "मेरी बोली"
+  },
+
+
+
+  "myprofiledemand&supply":{
+    "Create" : "बनाएं"
+    },
+    
+    "nodatashowerror":{
+      "title1":"आपके पास कोई मांग सूची उपलब्ध नहीं है.",
+      "title2":"आपके पास कोई आपूर्ति सूची उपलब्ध नहीं है.",
+      "title3":"आपके पास कोई सूची उपलब्ध नहीं है.",
+      "title4":"आपके पास मेरी डिमांड संपर्क उपयोगकर्ता सूची उपलब्ध नहीं है।",
+      "title5":"आपके पास मेरी आपूर्ति संपर्क उपयोगकर्ता सूची उपलब्ध नहीं है।",
+      "title6":"आपके पास कोई मांग सूची उपलब्ध नहीं है.",
+      "title7":"आपके पास कोई आपूर्ति सूची उपलब्ध नहीं है."
+     },
+
+     "notifictionbutton":{
+      "title1":"सभी सूचनाएं देखें"
+     },
+
+  "footer": {
+    "partnertitle": "व्यापारिक भागीदार",
+    "partnerparagraph": "एजेंसियों को उनके नए व्यावसायिक उद्देश्यों को परिभाषित करने और फिर पेशेवर सॉफ़्टवेयर बनाने में सहायता करें।",
+    "footerBusiness": "व्यापार",
+    "footerApi": "एपीआई संदर्भ",
+    "footerSupport": "सहायता",
+    "footerFaq": "सामान्य प्रश्न",
+    "description": "हम तभी पैसा कमाते हैं जब आप कमाते हैं। जो शुल्क आप देखते हैं वे वही हैं जो आप भुगतान करते हैं, बिना किसी छुपे हुए शुल्क के!",
+    "title1": "उपयोगी कड़ियां",
+    "title2": "के बारे में",
+    "title3": "सहायता",
+    "footerContact": "संपर्क जानकारी",
+    "footerContact1": " संपर्क",
+    "footerPrivacy": "गोपनीयता नीति",
+    "footerTerm": "अवधि और हालत",
+    "footerpalacholder": "मेल पता",
+    "footerbtn": "सदस्यता लें",
+    "footercopy": " कॉपीराइट ©2022",
+    "footerall": "सर्वाधिकार सुरक्षित",
+    "footerssupplies": "आपूर्ति",
+    "footersdemands": "मांगों",
+    "footersmedia": "मिडिया",
+    "footerscatgory": "श्रेणियाँ",
+    "footeraboutas" : "हमारे बारे में"
+  },
+
+  "footerbottom": {
+    "coptrighttitle": "© 2024 क्रशुवेद। सर्वाधिकार सुरक्षित।"
+  }
+}
+
